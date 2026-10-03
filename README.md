@@ -36,3 +36,7 @@ TROA NPC+ is a server-side project. Any future client requirements, compatibilit
 ## License and use
 
 Copyright © 2026 TROA Inc. All rights reserved. No license to use, copy, modify, distribute, or reverse engineer unreleased project materials is granted by this repository.
+
+## Documentation and status
+
+See [`docs/README.md`](docs/README.md) for the current pre-release status and roadmap. There is no public installable build or supported command set yet.

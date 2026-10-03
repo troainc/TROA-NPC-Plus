@@ -1,11 +1,5 @@
-# Changelog
+# TROA NPC+ Changelog
 
-All notable public-facing changes to TROA NPC+ will be documented here.
+## 2026-10-03 - Public documentation navigation
 
-## Unreleased
-
-### Added
-
-- Initial public project presence.
-- High-level product overview and planned-direction roadmap.
-- Clear notice that source code, builds, assets, and unreleased integration contracts are not published here.
+- Added a documentation landing page clarifying the current pre-release status, roadmap, and lack of an installable build or player commands.
