@@ -13,6 +13,8 @@ TROA NPC+ is being built to make persistent, story-aware NPC activity possible w
 - A first-party TROA faction: **The Asgardians**, the Asgardian Concord.
 - A versioned integration surface for compatible server-side plugins, designed to avoid unsafe direct state changes.
 
+The first public milestone is a restart-safe server lifecycle followed by one small in-world patrol slice. See the repository-root [roadmap](ROADMAP.md) for the validation gates before broader gameplay work.
+
 ## Status
 
 NPC+ is in active pre-release development. There is no public build, installation package, release date, or support commitment yet. Features and priorities may change as implementation and server testing progress.
@@ -40,3 +42,9 @@ Copyright © 2026 TROA Inc. All rights reserved. No license to use, copy, modify
 ## Documentation and status
 
 See [`docs/README.md`](docs/README.md) for the current pre-release status and roadmap. There is no public installable build or supported command set yet.
+
+
+## Documentation
+
+Use the [documentation index](docs/README.md) and [detailed operator guide](docs/USER_GUIDE.md) for setup, everyday use, feature behavior, and troubleshooting. Check the changelog and the current release before applying version-specific instructions.
+

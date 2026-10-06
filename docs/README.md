@@ -7,3 +7,8 @@ NPC+ is a pre-release project. There is no public build, package, installation p
 - Watch the repository for a release; installation and server-owner setup instructions will be published with an actual supported build.
 
 The target platform is Torch and .NET Framework 4.8 x64. These are design targets, not a statement that a usable build is available.
+
+## Start here
+
+Read the [detailed user and operator guide](USER_GUIDE.md) for supported setup, feature workflows, safe operation, and troubleshooting.
+

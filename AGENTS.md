@@ -7,3 +7,8 @@ This is the public-facing TROA NPC+ repository.
 - Public documentation must state only confirmed, high-level product direction and must avoid release-date promises.
 - Update `README.md` and `CHANGELOG.md` for every user-visible change.
 - Maintain `CONTEXT.md` and `LOGS.md` as concise project working records.
+
+## Public documentation maintenance
+
+For TROA NPC+, keep public docs limited to release-supported behavior. Treat source-closed or roadmap-only behavior as such, never expose secrets or private implementation details, and update the README, changelog, user guide, and this repository's context/log when documentation changes.
+
