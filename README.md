@@ -1,3 +1,5 @@
+> **Bifrost Plugin Panel:** NPC+ is pre-release and has no public installable build or Panel workspace yet. See [the current status](docs/BIFROST-PLUGIN-PANEL.md); do not expect NPC+ controls in the Panel today.
+
 # TROA NPC+
 
 > **Coming soon:** a server-authoritative NPC simulation framework for Torch-powered Space Engineers dedicated servers.
