@@ -1,3 +1,7 @@
+## 2026-10-09 — Bifrost Plugin Panel status
+
+- Clarifies that NPC+ has no public installable build or supported Panel workspace yet. Documentation only; no runtime integration or release is claimed.
+
 ## Public operator documentation expansion - 2026-10-06
 
 - Added a detailed user guide under docs/USER_GUIDE.md and linked it from the documentation index and root README.
