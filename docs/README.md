@@ -12,3 +12,8 @@ The target platform is Torch and .NET Framework 4.8 x64. These are design target
 
 Read the [detailed user and operator guide](USER_GUIDE.md) for supported setup, feature workflows, safe operation, and troubleshooting.
 
+
+
+## Bifrost Plugin Panel
+
+[Connect and use the Panel workspace](BIFROST-PLUGIN-PANEL.md)
